@@ -1,0 +1,3 @@
+package app
+
+const GREETINGTASKQUEUE = "GREETING_TASK_QUEUE"
